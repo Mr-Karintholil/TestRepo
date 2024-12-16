@@ -28,4 +28,4 @@ jobs:
         pip install unittest
 
     - name: Run Tests
-      run: python -m unittest discover tests
+      run: python -m unittest discover test
